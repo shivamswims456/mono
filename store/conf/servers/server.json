@@ -1,0 +1,11 @@
+{
+    "auth": {
+        "auth_sso_login_url": "/login/",
+        "auth_sso_server_address": "http://127.0.0.1:8000"
+    },
+
+    "signals": {
+        "base_url": "http://127.0.0.1:8009",
+        "bpn": "signals/admin_notification/background_process_notification"
+    }
+}
